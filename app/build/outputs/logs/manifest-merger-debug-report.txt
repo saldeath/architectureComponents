@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\432ebcf123eaaecc80d389097a426a10\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\4ef6fec87fbc4805f5f80a3f38a282b2\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:preference-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\preference-v7-26.0.1.aar\84ebbb0e4d1845f3935b686fcda8db0c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\e2406aeb01ddb8f3484b23bf937050b0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\77da2b2a1961de6e11f475a0a5375837\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\c2a31f5e62aaee1fae6919fd4623237f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\449826657da1b54418c8a0611d76701a\AndroidManifest.xml:17:1-42:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha8.aar\99e938f66f1552a102af0a7c96da320b\AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha8.aar\a7427f2f76b89c4f87c5a0274b9f4bbd\AndroidManifest.xml:17:1-34:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha8.aar\9104685eea5400a5bd67306ad1331d95\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\ee6c32f640b0e82d411f02d1ca0fb979\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\3ebe487116f13d7a10a408249dbee9d7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\bdcd25d4ed4dc0a5da2b29e2cde47e4e\AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-db-impl-1.0.0-alpha8.aar\d7dbcfa122428d1ea3f7a75b89950aa7\AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-db-1.0.0-alpha8.aar\8c8b70aa870aae30231b203a1b5fc036\AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.core:runtime:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha8.aar\4184bb94924d53e93488e9c3a48a356a\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\037ce8169ac5b84ade7f98a7b304af90\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\97e9fd7317b0b1b9b248b5af49f661bc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\b07ec48efa188985d096f423de2e6e3a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\815381cd95dd6eb48548e8f16c8d1e7f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\c549f07d4ba833b0dad6514e8fedba84\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+	package
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:19:5-43
+		INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+		INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-70:12
+		INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:18:5-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:22:22-64
+application
+ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:24:5-69:19
+MERGED from [com.android.support:preference-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\preference-v7-26.0.1.aar\84ebbb0e4d1845f3935b686fcda8db0c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\preference-v7-26.0.1.aar\84ebbb0e4d1845f3935b686fcda8db0c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\e2406aeb01ddb8f3484b23bf937050b0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\e2406aeb01ddb8f3484b23bf937050b0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\77da2b2a1961de6e11f475a0a5375837\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\77da2b2a1961de6e11f475a0a5375837\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\c2a31f5e62aaee1fae6919fd4623237f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\c2a31f5e62aaee1fae6919fd4623237f\AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\449826657da1b54418c8a0611d76701a\AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\449826657da1b54418c8a0611d76701a\AndroidManifest.xml:26:5-40:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha8.aar\a7427f2f76b89c4f87c5a0274b9f4bbd\AndroidManifest.xml:26:5-32:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha8.aar\a7427f2f76b89c4f87c5a0274b9f4bbd\AndroidManifest.xml:26:5-32:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\ee6c32f640b0e82d411f02d1ca0fb979\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\ee6c32f640b0e82d411f02d1ca0fb979\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\3ebe487116f13d7a10a408249dbee9d7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\3ebe487116f13d7a10a408249dbee9d7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\bdcd25d4ed4dc0a5da2b29e2cde47e4e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\bdcd25d4ed4dc0a5da2b29e2cde47e4e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\037ce8169ac5b84ade7f98a7b304af90\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\037ce8169ac5b84ade7f98a7b304af90\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\97e9fd7317b0b1b9b248b5af49f661bc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\97e9fd7317b0b1b9b248b5af49f661bc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\b07ec48efa188985d096f423de2e6e3a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\b07ec48efa188985d096f423de2e6e3a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\815381cd95dd6eb48548e8f16c8d1e7f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\815381cd95dd6eb48548e8f16c8d1e7f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\c549f07d4ba833b0dad6514e8fedba84\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\c549f07d4ba833b0dad6514e8fedba84\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:29:9-40
+activity#com.example.android.sunshine.ui.list.MainActivity
+ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:34:13-45
+	android:launchMode
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:35:13-43
+	android:theme
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:36:13-53
+	android:name
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:33:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:44:9-52:20
+	android:parentActivityName
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:47:13-63
+	android:label
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:46:13-58
+	android:theme
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:45:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:49:13-51:56
+	android:value
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:51:17-54
+	android:name
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:50:17-63
+service#com.example.android.sunshine.data.network.SunshineSyncIntentService
+ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:56:9-58:40
+	android:exported
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:57:13-67
+service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
+ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:61:9-67:19
+	android:exported
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:62:13-68
+intent-filter#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:64:13-66:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:65:17-83
+	android:name
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:65:25-81
+uses-sdk
+INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\432ebcf123eaaecc80d389097a426a10\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\432ebcf123eaaecc80d389097a426a10\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\4ef6fec87fbc4805f5f80a3f38a282b2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\4ef6fec87fbc4805f5f80a3f38a282b2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:preference-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\preference-v7-26.0.1.aar\84ebbb0e4d1845f3935b686fcda8db0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\preference-v7-26.0.1.aar\84ebbb0e4d1845f3935b686fcda8db0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\e2406aeb01ddb8f3484b23bf937050b0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\e2406aeb01ddb8f3484b23bf937050b0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\77da2b2a1961de6e11f475a0a5375837\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\77da2b2a1961de6e11f475a0a5375837\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\c2a31f5e62aaee1fae6919fd4623237f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\c2a31f5e62aaee1fae6919fd4623237f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\449826657da1b54418c8a0611d76701a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\449826657da1b54418c8a0611d76701a\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha8.aar\99e938f66f1552a102af0a7c96da320b\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha8.aar\99e938f66f1552a102af0a7c96da320b\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha8.aar\a7427f2f76b89c4f87c5a0274b9f4bbd\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha8.aar\a7427f2f76b89c4f87c5a0274b9f4bbd\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha8.aar\9104685eea5400a5bd67306ad1331d95\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha8.aar\9104685eea5400a5bd67306ad1331d95\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\ee6c32f640b0e82d411f02d1ca0fb979\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\ee6c32f640b0e82d411f02d1ca0fb979\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\3ebe487116f13d7a10a408249dbee9d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\3ebe487116f13d7a10a408249dbee9d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\bdcd25d4ed4dc0a5da2b29e2cde47e4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\bdcd25d4ed4dc0a5da2b29e2cde47e4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-db-impl-1.0.0-alpha8.aar\d7dbcfa122428d1ea3f7a75b89950aa7\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-db-impl-1.0.0-alpha8.aar\d7dbcfa122428d1ea3f7a75b89950aa7\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-db-1.0.0-alpha8.aar\8c8b70aa870aae30231b203a1b5fc036\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-db-1.0.0-alpha8.aar\8c8b70aa870aae30231b203a1b5fc036\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:runtime:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha8.aar\4184bb94924d53e93488e9c3a48a356a\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:runtime:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha8.aar\4184bb94924d53e93488e9c3a48a356a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\037ce8169ac5b84ade7f98a7b304af90\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\037ce8169ac5b84ade7f98a7b304af90\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\97e9fd7317b0b1b9b248b5af49f661bc\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\97e9fd7317b0b1b9b248b5af49f661bc\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\b07ec48efa188985d096f423de2e6e3a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\b07ec48efa188985d096f423de2e6e3a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\815381cd95dd6eb48548e8f16c8d1e7f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\815381cd95dd6eb48548e8f16c8d1e7f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\c549f07d4ba833b0dad6514e8fedba84\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\c549f07d4ba833b0dad6514e8fedba84\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\e2406aeb01ddb8f3484b23bf937050b0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Silwan\StudioProjects\architectureComponentsSunshineStartingCode\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:preference-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\preference-v7-26.0.1.aar\84ebbb0e4d1845f3935b686fcda8db0c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\e2406aeb01ddb8f3484b23bf937050b0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\e2406aeb01ddb8f3484b23bf937050b0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\77da2b2a1961de6e11f475a0a5375837\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\77da2b2a1961de6e11f475a0a5375837\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\ee6c32f640b0e82d411f02d1ca0fb979\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\ee6c32f640b0e82d411f02d1ca0fb979\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\3ebe487116f13d7a10a408249dbee9d7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\3ebe487116f13d7a10a408249dbee9d7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\bdcd25d4ed4dc0a5da2b29e2cde47e4e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\bdcd25d4ed4dc0a5da2b29e2cde47e4e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\037ce8169ac5b84ade7f98a7b304af90\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\037ce8169ac5b84ade7f98a7b304af90\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\97e9fd7317b0b1b9b248b5af49f661bc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\97e9fd7317b0b1b9b248b5af49f661bc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\b07ec48efa188985d096f423de2e6e3a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\b07ec48efa188985d096f423de2e6e3a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\815381cd95dd6eb48548e8f16c8d1e7f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\815381cd95dd6eb48548e8f16c8d1e7f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\c549f07d4ba833b0dad6514e8fedba84\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\c549f07d4ba833b0dad6514e8fedba84\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:preference-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\preference-v7-26.0.1.aar\84ebbb0e4d1845f3935b686fcda8db0c\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:preference-v7:26.0.1] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\preference-v7-26.0.1.aar\84ebbb0e4d1845f3935b686fcda8db0c\AndroidManifest.xml:24:13-51
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\449826657da1b54418c8a0611d76701a\AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\449826657da1b54418c8a0611d76701a\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\449826657da1b54418c8a0611d76701a\AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\449826657da1b54418c8a0611d76701a\AndroidManifest.xml:33:13-73
+intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\449826657da1b54418c8a0611d76701a\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\449826657da1b54418c8a0611d76701a\AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\449826657da1b54418c8a0611d76701a\AndroidManifest.xml:37:25-84
+provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
+ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha8.aar\a7427f2f76b89c4f87c5a0274b9f4bbd\AndroidManifest.xml:27:9-31:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha8.aar\a7427f2f76b89c4f87c5a0274b9f4bbd\AndroidManifest.xml:29:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha8.aar\a7427f2f76b89c4f87c5a0274b9f4bbd\AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha8.aar\a7427f2f76b89c4f87c5a0274b9f4bbd\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha8] C:\Users\Silwan\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha8.aar\a7427f2f76b89c4f87c5a0274b9f4bbd\AndroidManifest.xml:28:13-81
